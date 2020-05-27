@@ -15,16 +15,16 @@ remote_theme             : "mmistakes/minimal-mistakes@4.19.1"
 minimal_mistakes_skin    : "dark" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "gr0sabi@notes"
+locale                   : "TBILISI, GEORGIA"
+title                    : "0x70sec"
 title_separator          : "|"
-name                     : "John David Grow"
-description              : "An information security and development blog. Various post related to the struggle against code and the hardware that pushes it around."
-url                      : "https://gr0sabi.github.io"
+name                     : "0x70sec"
+description              : "An information security and development blog."
+url                      : "https://0x70sec.github.io"
 baseurl                  : # "/_site"
-repository               : "gr0sabi/gr0sabi.github.io"
+repository               : "0x70sec/0x70sec.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/header.png"
+logo                     : "/assets/logo.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title"
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "gr0sabi"
+  username               : "0x70sec"
 facebook:
   username               :
   app_id                 :
@@ -106,43 +106,43 @@ analytics:
 
 # Site Author
 author:
-  name             : "John David Grow"
-  avatar           : "/assets/images/me.jpg"
-  bio              : "Dedicated Husband and Father. Passionate about Security. Veteran."
-  location         : "Virginia Beach, Virginia, USA"
+  name             : "0x70sec"
+  avatar           : "/assets/8b5de3b867817eee36ec63b424fbb794.png"
+  bio              : "Cyber Security Enthusiast, Researcher, H4cker"
+  location         : "Tbilisi, Georgia"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:john@gr0sabi.dev
+      url: mailto:oto.shurgulaia@gmail.com
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gr0sabi"
+      url: "https://twitter.com/0x70sec"
     - label: "Hack The Box"
       icon: "fa-fw htb"
-      url: "https://www.hackthebox.eu/profile/23241"
+      url: "https://www.hackthebox.eu/profile/95930"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gr0sabi"
+      url: "https://github.com/0x70sec"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/johngrow/"
+      url: "https://www.linkedin.com/in/oto-shurgulaia-2041661aa/"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/gr0sabi"
+      url: "https://twitter.com/0x70sec"
     - label: "Hack The Box"
       icon: "fa-fw htb"
-      url: "https://www.hackthebox.eu/profile/23241"
+      url: "https://www.hackthebox.eu/profile/95930"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/gr0sabi"
+      url: "https://github.com/0x70sec"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/johngrow/"
+      url: "https://www.linkedin.com/in/oto-shurgulaia-2041661aa/"
 
 
 # Reading Files
