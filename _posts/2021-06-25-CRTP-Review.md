@@ -35,7 +35,7 @@ The exam consists of five machines, spread over multiple domains. You are given 
 Certified red team professional is the best active directory introduction course for 250$. I'd recommend it to both red and blue teamers. Pentester academy has expert course as well (CRTE), if you are interested in studying AD on more advanced level.
 
 ### Resources :
-* https://casvancooten.com/posts/2020/10/getting-the-crtp-certification-attacking-and-defending-active-directory-course-review/
+* ![]https://casvancooten.com/posts/2020/10/getting-the-crtp-certification-attacking-and-defending-active-directory-course-review/
 * (https://davidhamann.de/2020/12/25/crtp-review-pentester-academy/)
 * (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
 * (https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
