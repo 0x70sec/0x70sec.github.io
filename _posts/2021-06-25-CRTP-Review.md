@@ -1,12 +1,12 @@
 ---
-title: Certified Red Team Professional Course Review
+title: Certified Red Team Professional Review
 published: true
 ---
 Attacking and Defending Active directory 
 
 ![](https://raw.githubusercontent.com/0x70sec/0x70sec.github.io/master/assets/images/crtp.png)
 
-The importance of Active Directory in an enterprise cannot be stressed enough. Used by more than 90% of Fortune 1000 companies, the all-pervasive AD is the focal point for adversaries. It is used to manage everything from windows servers to applications.Still, when it comes to AD security, there is a large gap of knowledge which security professionals and administrators struggle to fill. Attacking and defending active directory course fills those gaps and builds solid knowledge for both red and blue teamers. CRTP focuses on exploiting misconfigurations in ad environment rather than using exploits.
+The importance of Active Directory in an enterprise cannot be stressed enough. Used by more than 90% of Fortune 1000 companies, the all-pervasive AD is the focal point for adversaries. It is used to manage everything from windows servers to applications.Still, when it comes to AD security, there is a large gap of knowledge which security professionals and administrators struggle to fill. Attacking and defending active directory course fills those gaps and builds solid knowledge for both red and blue teamers. CRTP focuses on exploiting misconfigurations in AD environment rather than using exploits.
 
 
 # [](#header-1)The Course / lab
@@ -26,7 +26,7 @@ The exam consists of five machines, spread over multiple domains. You are given 
 * Practice exercises multiple times in the lab
 * Use different tools for enumeration 
 * Take Breaks
-* Dont overthink 
+* Don't overthink 
 
 
 ![](https://raw.githubusercontent.com/0x70sec/0x70sec.github.io/master/assets/images/crtp_verified.png)
@@ -35,12 +35,12 @@ The exam consists of five machines, spread over multiple domains. You are given 
 Certified red team professional is the best active directory introduction course for 250$. I'd recommend it to both red and blue teamers. Pentester academy has expert course as well (CRTE), if you are interested in studying AD on more advanced level.
 
 ### Resources :
-* [](https://casvancooten.com/posts/2020/10/getting-the-crtp-certification-attacking-and-defending-active-directory-course-review/)
-* (https://davidhamann.de/2020/12/25/crtp-review-pentester-academy/)
-* (https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
-* (https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
-* (https://www.labofapenetrationtester.com/2016/02/getting-domain-admin-with-kerberos-unconstrained-delegation.html)
-* (https://adsecurity.org/)
+* [https://casvancooten.com/posts/2020/10/getting-the-crtp-certification-attacking-and-defending-active-directory-course-review/](https://casvancooten.com/posts/2020/10/getting-the-crtp-certification-attacking-and-defending-active-directory-course-review/)
+* [https://davidhamann.de/2020/12/25/crtp-review-pentester-academy/](https://davidhamann.de/2020/12/25/crtp-review-pentester-academy/)
+* [https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/](https://casvancooten.com/posts/2020/11/windows-active-directory-exploitation-cheat-sheet-and-command-reference/)
+* [https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse](https://www.ired.team/offensive-security-experiments/active-directory-kerberos-abuse)
+* [https://www.labofapenetrationtester.com/2016/02/getting-domain-admin-with-kerberos-unconstrained-delegation.html](https://www.labofapenetrationtester.com/2016/02/getting-domain-admin-with-kerberos-unconstrained-delegation.html)
+* [https://adsecurity.org/](https://adsecurity.org/))
 
 
 
